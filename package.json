@@ -1,7 +1,7 @@
 {
-  "name": "matteruser-helper",
+  "name": "hubot-helper-uc",
   "version": "1.0.0",
-  "description": "Library to help using hubot-matteruser adapter",
+  "description": "Library to help using hubot adapter, but now it support matteruser adapter",
   "main": "dist/index.js",
   "scripts": {
     "prepare": "yarn build",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/b6pzeusbc54tvhw5jgpyw8pwz2x6gs/matteruser-helper.git"
+    "url": "git+https://github.com/b6pzeusbc54tvhw5jgpyw8pwz2x6gs/hubot-helper-uc.git"
   },
   "keywords": [
     "hubot",
@@ -20,9 +20,9 @@
   "author": "Alfred UC",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/b6pzeusbc54tvhw5jgpyw8pwz2x6gs/matteruser-helper/issues"
+    "url": "https://github.com/b6pzeusbc54tvhw5jgpyw8pwz2x6gs/hubot-helper-uc/issues"
   },
-  "homepage": "https://github.com/b6pzeusbc54tvhw5jgpyw8pwz2x6gs/matteruser-helper#readme",
+  "homepage": "https://github.com/b6pzeusbc54tvhw5jgpyw8pwz2x6gs/hubot-helper-uc#readme",
   "dependencies": {
     "tracer": "^0.8.9",
     "underscore": "^1.8.3"
